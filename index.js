@@ -1,5 +1,6 @@
-// Add your code here
-/*
+// This is my code that doesn't use arrow functions. 
+// I tried to write the equivalent of the code along but am not getting the same test results
+/* 
 function submitData(name, email) {
 
     fetch("http://localhost:3000/users", {
@@ -26,8 +27,10 @@ function submitData(name, email) {
                     })
                     
 }
-
 */
+
+
+/*From video code along, https://www.youtube.com/watch?v=9d7Hj5FT7NE */
 
 function submitData(name, email) {
 
